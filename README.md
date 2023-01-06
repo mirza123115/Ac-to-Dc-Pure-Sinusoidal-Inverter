@@ -1,1 +1,1 @@
-# Ac-to-Dc-Pure-Sinusoidal-Inverter
+# Ac to Dc Pure Sinusoidal Inverter
